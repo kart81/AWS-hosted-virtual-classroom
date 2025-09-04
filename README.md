@@ -1,1 +1,1 @@
-# AWS-hosted-virtual-classroom
+# AWS-Hosted-Virtual-Classroom
